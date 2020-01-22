@@ -26,19 +26,12 @@ We will now install the required packages:
 ```bash
 conda install jupyter numpy scipy matplotlib pandas statsmodels scikit-learn seaborn
 conda install -c conda-forge scikit-optimize
-pip install --user git+git://github.com/sinziana91/pca-magic.git@master
 ```
 
 
 ### Course material ###
 
-Once you have finished installed everything, you should download the course material. You have two options:
-  1. We recommend that you directly download a .zip file from https://github.com/MirunaClinciu/DME/ which will contain everything you need and save it in the folder you have just created. You can do this from the terminal by typing:
-  
-    wget https://github.com/MirunaClinciu/DME/archive/master.zip
-    unzip master.zip
-    
-  2. If **and only if** you are familiar and confident with using Git/GitHub, you can initialise a git directory, add the above repo as remote and pull everything into your local directory. Please use this option only if you really know what you are doing. Unfortunately, we won't be able to provide you with Git/Github support if you run into issues with syncing and using version control in general.
+Once you have finished installed everything, you should download the course material from dme2020. 
 
 Open a terminal (or Command Prompt in Windows), navigate to the folder where you have downloaded the course material and type:
 
