@@ -1,0 +1,5 @@
+*.DS_Store
+*.pdf
+/pycache/
+*.pyc
+*.ipynb_checkpoints/
